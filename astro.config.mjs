@@ -7,7 +7,7 @@ import cloudflare from '@astrojs/cloudflare';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://rad.vg',
+  site: 'https://evelynmeow.com',
   integrations: [mdx(), sitemap()],
 
   vite: {
